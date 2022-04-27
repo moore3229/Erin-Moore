@@ -27,3 +27,5 @@ The project workspace includes six files:
 5.) ``sql_queries.py`` contains all your sql queries, and is imported into the last three files above.
 6.) ``README.md`` provides discussion on your project.
 
+# Project Steps
+### ''NOTE: You will not be able to run test.ipynb, etl.ipynb, or etl.py until you have run create_tables.py at least once to create the sparkifydb database, which these other files connect to.''
